@@ -1,0 +1,45 @@
+h1 {
+	border-style: inset;
+	text-align: center;
+	padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+	font-family: Courier New;
+	font-size: 70px
+}
+
+h3{
+	text-align: center;
+	font-family: Consolas,monaco,monospace;
+	font-size: 20px
+}
+
+body {
+    background-color: #D3D3D3;
+}
+
+hr {
+	border: inset;
+	
+}
+
+a {
+	font-family: Courier New;
+	border-style: inset;
+	padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+table {
+	text-align: center;
+	width: 100%
+	
+}
+
+td{
+
+
+}
